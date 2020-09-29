@@ -104,4 +104,11 @@ We can either show only in-use blocks (skip FFE) or show those blocks as availab
 - API guides if needed can be added later.
 8. Add more if needed.
 
+## Pinned Repos:
+1. qorc-sdk
+2. quicklogic-fpga-toolchain 
+3. TinyFPGA-Programmer-Application 
+4. quick-feather-dev-board 
+5. TODO
+6. TODO
 
