@@ -38,7 +38,7 @@ This documentation will help get quickly up to speed with the QORC SDK using the
 
 2. Build, Flash and Run M4 (FreeRTOS) + FPGA Application
 - Note that we have to use the dedicated M4 UART for debug prints, instead of the FPGA based USB IP, because the Application will be loading a different FPGA design
-  Refer to **[TODO URL]** for details on how to connect a USB UART board such as PL2303, FT232 etc. based boards
+  Refer to [QuickFeather Dev Board](https://github.com/QuickLogic-Corp/quick-feather-dev-board) for details on how to connect a USB UART board such as PL2303, FT232 etc. based boards
 
 - Basic Example of using FPGA for LED Blink to start with, refer to https://github.com/QuickLogic-Corp/qorc-sdk#lesson-2a-fpga-only--qf_helloworldhw
 
